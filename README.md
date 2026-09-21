@@ -6,6 +6,22 @@ _Get started using GitHub in less than an hour._
 
 People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” exercise guides you through everything you need to start contributing in less than an hour.
 
+## Resumen detallado de GitHub (nivel principiante)
+
+GitHub es una plataforma para guardar, compartir y colaborar en proyectos de software usando Git, un sistema de control de versiones.
+
+- **Repositorio (repo)**: Es la carpeta principal de tu proyecto en GitHub. Ahí vive tu código, documentación e historial de cambios.
+- **Git**: Es la herramienta que registra cada cambio en tus archivos. Te permite volver atrás, comparar versiones y trabajar sin perder avances.
+- **Branch (rama)**: Es una copia de trabajo de tu proyecto. Se usa para hacer cambios de forma segura sin afectar la versión principal.
+- **Commit**: Es un “punto de guardado” con los cambios que hiciste y un mensaje que explica qué cambió.
+- **Pull request (PR)**: Es una solicitud para revisar y combinar tus cambios de una rama a otra (por ejemplo, hacia `main`).
+- **Review y comentarios**: En un PR, otras personas pueden revisar tu trabajo, sugerir mejoras y aprobar cambios antes de fusionarlos.
+- **Merge**: Es el paso final para unir los cambios aprobados a la rama principal.
+- **Issues**: Son tareas, ideas o errores reportados para organizar el trabajo del proyecto.
+- **Actions**: Automatizaciones de GitHub para ejecutar pruebas, validar código o desplegar aplicaciones.
+
+En resumen, el flujo básico para empezar en GitHub es: crear una rama, hacer commits, abrir un pull request, recibir revisión y hacer merge.
+
 - **Who is this for**: New developers, new GitHub users, and students.
 - **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
 - **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
